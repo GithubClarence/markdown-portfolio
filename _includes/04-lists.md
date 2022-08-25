@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Jollibee
+* McDonalds
+* Chowking
+* KFC
+* Humba Heaven
+* Burger King
